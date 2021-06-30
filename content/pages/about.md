@@ -49,6 +49,4 @@ Quiero generar las mejores aplicaciones web para los usuarios que sean de utilid
 👉 He trabajado con APIs Rest
 👉 Administro sistemas basados en Linux
 
-
-
 *Thank You for reading!*
