@@ -41,7 +41,7 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 layout: post
-thumb_image: images/12_thumb.jpg
+thumb_image: /images/6_thumb.jpg
 image: /images/giphy.gif
 ---
 
