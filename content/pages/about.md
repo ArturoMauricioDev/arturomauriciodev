@@ -46,7 +46,9 @@ Conecto con estudiantes y profesionales que recién van empezando para guiarles 
 Quiero generar las mejores aplicaciones web para los usuarios que sean de utilidad en su vida cotidiana y les brinden bienestar y mejor calidad de vida.
 
 👉 Manejo en el área laboral: JavaScript, ReactJs, Html5 y Css3
+
 👉 He trabajado con APIs Rest
+
 👉 Administro sistemas basados en Linux
 
 *Thank You for reading!*
