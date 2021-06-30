@@ -33,11 +33,22 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Desarrollo aplicaciones web de acuerdo con los requerimientos del usuario considerando metodologías UX, Component Driven Development (CDD) con la ayuda de herramientas basadas en JavaScript para lograr un resultado de impacto.
+
+Me encanta descubrir nuevas formas e ideas que brinden soluciones más saludables a los usuarios de aplicaciones.
+
+Conecto con estudiantes y profesionales que recién van empezando para guiarles y enseñarles sobre el desarrollo de aplicaciones web. De esta manera construir una comunidad junto a ellos donde todos nos apoyemos frente a los problemas del día a día.
+
+Quiero generar las mejores aplicaciones web para los usuarios que sean de utilidad en su vida cotidiana y les brinden bienestar y mejor calidad de vida.
+
+👉 Manejo en el área laboral: JavaScript, ReactJs, Html5 y Css3
+👉 He trabajado con APIs Rest
+👉 Administro sistemas basados en Linux
+
+
 
 *Thank You for reading!*
