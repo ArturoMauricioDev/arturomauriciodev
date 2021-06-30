@@ -6,7 +6,7 @@ subtitle: >-
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Us
+  title: Arturo Mauricio
   description: This is the about us page
   extra:
     - name: 'og:type'
