@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Arturo Mauricio",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
@@ -40,33 +40,33 @@
         ]
     },
     "footer": {
-        "content": "Arturo Mauricio @ElTureque | Todos los derechos reservados &copy; 2021",
+        "content": "Arturo Mauricio Dev | Todos los derechos reservados &copy; 2022",
         "has_social": true,
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/eltureque",
+                "url": "https://twitter.com/ArturoMauricioD",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/eltureque",
+                "url": "https://www.instagram.com/arturomauriciodev/",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/ElTureque",
+                "url": "https://github.com/ArturoMauricioDev",
                 "style": "icon",
                 "icon": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/arturo-mauricio-terceros-beltr%C3%A1n/",
+                "url": "https://www.linkedin.com/in/arturomauriciodev/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
