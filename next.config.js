@@ -11,9 +11,7 @@ module.exports = {
     },
     basePath: '/amazing-apple-8e624',
     assetPrefix: '/amazing-apple-8e624',
-    kit: {
-        floc: process.env.NODE_ENV === 'development'
-    },
+    imagesPublicPath: '/amazing-apple-8e624/_next/static/images/',
     webpack: (config, { webpack }) => {
         // Tell webpack to ignore watching content files in the content folder.
         // Otherwise webpack receompiles the app and refreshes the whole page.
