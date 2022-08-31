@@ -9,6 +9,10 @@ module.exports = {
     devIndicators: {
         autoPrerender: false
     },
+    images: {
+        loader: 'akamai',
+        path: ''
+    },
     basePath: '/amazing-apple-8e624',
     assetPrefix: '/amazing-apple-8e624',
     imagesPublicPath: '/amazing-apple-8e624/_next/static/images/',
