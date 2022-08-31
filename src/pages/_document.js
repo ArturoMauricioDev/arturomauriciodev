@@ -32,7 +32,10 @@ export default class MyDocument extends Document {
         // const pageProps = _.get(this.props, '__NEXT_DATA__.props.pageProps');
         return (
             <Html {...this.helmetHtmlAttrComponents}>
-                <Head>{this.helmetHeadComponents}</Head>
+                <Head>
+                    {this.helmetHeadComponents}
+                    <meta name="google-site-verification" content="N4HfIG55Z_DXOUvwc8DUfuaJ2NsC14bryO56JebHKK4" />
+                </Head>
 
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6XLEHPPX3W"></script>
 
