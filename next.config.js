@@ -9,8 +9,8 @@ module.exports = {
     devIndicators: {
         autoPrerender: false
     },
-    // basePath: '/nextjs-pages',
-    // assetPrefix: '/nextjs-pages',
+    basePath: '/amazing-apple-8e624',
+    assetPrefix: '/amazing-apple-8e624',
     webpack: (config, { webpack }) => {
         // Tell webpack to ignore watching content files in the content folder.
         // Otherwise webpack receompiles the app and refreshes the whole page.
