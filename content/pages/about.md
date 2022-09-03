@@ -3,19 +3,19 @@ title: Arturo Mauricio
 subtitle: >-
     Desarrollador Full Stack | System Engineer | Web Developer | JavaScript | React.Js | Node | Express | PostgreSQL | Next.Js | Backend | Frontend | HTML/CSS | Linux System Administrator | Educator | +1000 Personas Formadas
 image: images/about.jpg
-image_alt: Arturo Mauricio Dev
+image_alt: Arturo Mauricio Dev imagen de perfil
 seo:
-    title: Arturo Mauricio
+    title: Arturo Mauricio Dev
     description: This is the Arturo Mauricio Dev's about
     extra:
         - name: 'og:type'
           value: website
           keyName: property
         - name: 'og:title'
-          value: About Us
+          value: This is the Arturo Mauricio Dev's about
           keyName: property
         - name: 'og:description'
-          value: This is the about us page
+          value: Desarrollador Full Stack | System Engineer | Web Developer | JavaScript | React.Js | Node | Express | PostgreSQL | Next.Js | Backend | Frontend | HTML/CSS | Linux System Administrator | Educator | +1000 Personas Formadas
           keyName: property
         - name: 'og:image'
           value: images/about.jpg
@@ -24,9 +24,9 @@ seo:
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: About Us
+          value: Acerca de Arturo Mauricio Dev
         - name: 'twitter:description'
-          value: This is the about us page
+          value: Desarrollador Full Stack | System Engineer | Web Developer
         - name: 'twitter:image'
           value: images/about.jpg
           relativeUrl: true
