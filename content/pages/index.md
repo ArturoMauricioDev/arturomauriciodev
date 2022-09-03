@@ -89,23 +89,23 @@ seo:
           value: website
           keyName: property
         - name: 'og:title'
-          value: Stackbit Exto Theme
+          value: Arturo Mauricio Dev
           keyName: property
         - name: 'og:description'
-          value: The preview of the Exto theme
+          value: Arturo Mauricio's Protafolio with Next.js
           keyName: property
         - name: 'og:image'
-          value: images/exto_preview.png
+          value: images/Developer-and-Educator.png
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: Stackbit Exto Theme
+          value: Arturo Mauricio Dev
         - name: 'twitter:description'
-          value: The preview of the Exto theme
+          value: Arturo Mauricio's Protafolio with Next.js
         - name: 'twitter:image'
-          value: images/exto_preview.png
+          value: images/Developer-and-Educator.png
           relativeUrl: true
 layout: advanced
 ---
