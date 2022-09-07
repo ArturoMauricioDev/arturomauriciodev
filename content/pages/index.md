@@ -8,7 +8,7 @@ sections:
       content: >-
           Desarrollador Full Stack | System Engineer | Web Developer | JavaScript | React.Js | Node | Express | PostgreSQL | Next.Js | Backend | Frontend | HTML/CSS | Linux System Administrator | Educator | +1000 Personas Formadas
       actions:
-          - label: Let's talk
+          - label: Contáctame
             url: /contact
             style: button
     - section_id: latest-posts
@@ -18,7 +18,7 @@ sections:
       posts_number: 3
       col_number: three
       actions:
-          - label: Mirar el Blog
+          - label: Visitar el Blog
             url: blog
             style: button
     - section_id: latest-projects
