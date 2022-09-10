@@ -37,7 +37,7 @@ layout: project
 
 ## Demo
 
-El proyecto esta disponible en [https://room.js.org/](https://room.js.org/). Asimísmo este es su [repositorio](https://github.com/ArturoMauricioDev/roomHomepage).
+El proyecto esta disponible en [https://room.js.org/](https://room.js.org/). Asimismo este es su [repositorio](https://github.com/ArturoMauricioDev/roomHomepage).
 
 ## Tabla de Contenidos
 
