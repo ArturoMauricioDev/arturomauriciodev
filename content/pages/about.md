@@ -2,7 +2,7 @@
 title: Arturo Mauricio
 subtitle: >-
     Desarrollador Full Stack | System Engineer | Web Developer | JavaScript | React.Js | Node | Express | PostgreSQL | Next.Js | Backend | Frontend | HTML/CSS | Linux System Administrator | Educator | +1000 Personas Formadas
-image: images/about.jpg
+image: images/about2.jpeg
 image_alt: Arturo Mauricio Dev imagen de perfil
 seo:
     title: Arturo Mauricio Dev
