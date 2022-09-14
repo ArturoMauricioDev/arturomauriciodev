@@ -35,6 +35,7 @@ export default class MyDocument extends Document {
                 <Head>
                     {this.helmetHeadComponents}
                     <meta name="google-site-verification" content="N4HfIG55Z_DXOUvwc8DUfuaJ2NsC14bryO56JebHKK4" />
+                    <link href="favicon.jpg" rel="icon" type="image/jpg" />
                 </Head>
 
                 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6XLEHPPX3W"></script>

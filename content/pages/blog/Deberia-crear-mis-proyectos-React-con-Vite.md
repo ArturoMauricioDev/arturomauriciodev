@@ -4,7 +4,7 @@ subtitle: 'Otra forma de crear proyectos en React'
 excerpt: >-
     En este artículo aprenderás a crear proyectos de React con Vite.
 date: '2021-06-21'
-thumb_image: images/14_thumb.png
+thumb_image: images/18.jpg
 thumb_image_alt: React - Vite
 image: images/14.png
 image_alt: React - Vite
@@ -46,6 +46,12 @@ layout: post
 ---
 
 Probablemente realizaste muchos proyectos con React, muchos de ellos los creaste utilizando create-react-app. Es normal, esta manera de crear tus proyectos es una práctica muy usual entre los desarrolladores. Pero te preguntaste ¿si hay otras formas de crear proyectos? Por su puesto que sí, hay varias y una de ellas es utilizando Vite.
+
+## Tabla de Contenidos
+
+-   [¿Por qué deberías usar Vite?](#¿por-qué-deberías-usar-vite)
+-   [Vamos a la acción](#vamos-a-la-acción)
+-   [Resolviendo problemas de versión](#resolviendo-problemas-de-versión)
 
 ## ¿Por qué deberías usar Vite?
 

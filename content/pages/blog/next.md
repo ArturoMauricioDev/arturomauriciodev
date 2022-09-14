@@ -1,49 +1,50 @@
 ---
 title: Windows 11
 subtitle: lorem-ipsum
-date: '2019-03-27'
+date: '2018-03-27'
 thumb_image_alt: A pile of books on the table
 image_alt: A pile of books on the table
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+    Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
+    massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
+    placerat lorem.
 seo:
-  title: Why Fonts Matter
-  description: >-
-    Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-    primis
-  extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: Why Fonts Matter
-      keyName: property
-    - name: 'og:description'
-      value: >-
+    title: Why Fonts Matter
+    description: >-
         Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
         primis
-      keyName: property
-    - name: 'og:image'
-      value: images/12.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Why Fonts Matter
-    - name: 'twitter:description'
-      value: >-
-        Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
-        primis
-    - name: 'twitter:image'
-      value: images/12.jpg
-      relativeUrl: true
+    extra:
+        - name: 'og:type'
+          value: article
+          keyName: property
+        - name: 'og:title'
+          value: Why Fonts Matter
+          keyName: property
+        - name: 'og:description'
+          value: >-
+              Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
+              primis
+          keyName: property
+        - name: 'og:image'
+          value: images/12.jpg
+          keyName: property
+          relativeUrl: true
+        - name: 'twitter:card'
+          value: summary_large_image
+        - name: 'twitter:title'
+          value: Why Fonts Matter
+        - name: 'twitter:description'
+          value: >-
+              Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
+              primis
+        - name: 'twitter:image'
+          value: images/12.jpg
+          relativeUrl: true
 layout: post
 thumb_image: /images/6_thumb.jpg
 image: /images/giphy.gif
 ---
+
 **Este es uno nuevo Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
 
 Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
