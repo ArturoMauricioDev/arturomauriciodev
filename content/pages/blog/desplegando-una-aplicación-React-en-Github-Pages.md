@@ -1,5 +1,5 @@
 ---
-title: Desplegando una aplicación React en Github Pages
+title: Desplegando una aplicación React en GitHub Pages
 subtitle: En este tutorial te enseño a desplegar una aplicación de React en GitHub Pages.
 excerpt: >-
     En este tutorial te enseño a desplegar una aplicación de React en GitHub Pages.
@@ -9,7 +9,7 @@ thumb_image_alt: Aplicación React en GitHub Pages.
 image: images/19.jpg
 image_alt: Aplicación React en GitHub Pages.
 seo:
-    title: Desplegando una aplicación React en Github Pages
+    title: Desplegando una aplicación React en GitHub Pages
     description: >-
         En este tutorial te enseño a desplegar una aplicación de React en GitHub Pages.
     extra:
@@ -17,7 +17,7 @@ seo:
           value: article
           keyName: property
         - name: 'og:title'
-          value: Desplegando una aplicación React en Github Pages
+          value: Desplegando una aplicación React en GitHub Pages
           keyName: property
         - name: 'og:description'
           value: >-
@@ -30,7 +30,7 @@ seo:
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: Desplegando una aplicación React en Github Pages
+          value: Desplegando una aplicación React en GitHub Pages
         - name: 'twitter:description'
           value: >-
               En este tutorial te enseño a desplegar una aplicación de React en GitHub Pages.
@@ -70,13 +70,13 @@ Si deseas instalar o manejar las versiones de NodeJs en tu sistema, puedes revis
 $ sudo apt install git
 ```
 
-3. Tambien debes tener una cuenta de [GitHub.](https://github.com/)
+3. También debes tener una cuenta de [GitHub.](https://github.com/)
 
 ## A la acción
 
 1. Crea un repositorio en GitHub.
 
-    - Asegurate que la visibilidad de tu repositorio sea **público**.
+    - Asegúrate que la visibilidad de tu repositorio sea **público**.
 
 2. Crea tu aplicación React.
    Para ello puedes utilizar el siguiente comando:
@@ -99,7 +99,7 @@ $ npm run start
 
 Verifica en el navegador que la aplicación esté ejecutándose.
 
-3. Installa el paquete **_gh-pages_**, para ello utiliza el siguiente comando.
+3. Instala el paquete **_gh-pages_**, para ello utiliza el siguiente comando.
 
 ```
 npm install gh-pages --save-dev
@@ -145,7 +145,7 @@ Tu archivo **_package.json_**, quedaría de la siguiente manera.
 $ git remote add origin https://github.com/{username}/{repo-name}.git
 ```
 
-7. Finalmente despliega tu aplicación React en GitHub Pages.
+7. Finalmente, despliega tu aplicación React en GitHub Pages.
 
 ```
 $ npm run deploy -- -m "Despliegue de la app en GitHub Pages"
