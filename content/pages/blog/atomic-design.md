@@ -1,48 +1,45 @@
 ---
-title: ¿Qué es atomic design?
-subtitle: 'Otra forma de crear proyectos en React'
+title: ¿Cómo utilizo atomic design en mis proyectos?
+subtitle: 'Atomic Design es una metodología concebida por Brad Frost, que pretende acabar con las inconsistencias y optimizar el diseño y desarrollo al máximo en aplicaciones modernas.'
 excerpt: >-
-    En este artículo aprenderás a crear proyectos de React con Vite.
-date: '2021-09-21'
+    Acá te muestro como utilizar atomic design en todos tus proyectos futuros.
+date: '2022-09-09'
 thumb_image: images/20.jpg
 thumb_image_alt: atomic design image
 image: images/20.jpg
 image_alt: atomic design image
 seo:
-    title: The function of design is letting design function
+    title: ¿Cómo utilizo atomic design en mis proyectos?
     description: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+        Acá te muestro como utilizar atomic design en todos tus proyectos futuros.
     extra:
         - name: 'og:type'
           value: article
           keyName: property
         - name: 'og:title'
-          value: The function of design is letting design function
+          value: ¿Cómo utilizo atomic design en mis proyectos?
           keyName: property
         - name: 'og:description'
           value: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-              tempor incididunt ut labore
+              Acá te muestro como utilizar atomic design en todos tus proyectos futuros.
           keyName: property
         - name: 'og:image'
-          value: images/13.jpg
+          value: images/20.jpg
           keyName: property
           relativeUrl: true
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: The function of design is letting design function
+          value: ¿Cómo utilizo atomic design en mis proyectos?
         - name: 'twitter:description'
           value: >-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-              tempor incididunt ut labore
+              Acá te muestro como utilizar atomic design en todos tus proyectos futuros.
         - name: 'twitter:image'
-          value: images/13.jpg
+          value: images/20.jpg
           relativeUrl: true
 layout: post
 [img1]:
-    data: images/13jpg
+    data: images/20.jpg
 ---
 
 Probablemente realizaste muchos proyectos con React, muchos de ellos los creaste utilizando create-react-app. Es normal, esta manera de crear tus proyectos es una práctica muy usual entre los desarrolladores. Pero te preguntaste ¿si hay otras formas de crear proyectos? Por su puesto que sí, hay varias y una de ellas es utilizando Vite.
