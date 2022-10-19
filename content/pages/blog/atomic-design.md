@@ -1,6 +1,6 @@
 ---
-title: ¿Cómo utilizo atomic design en mis proyectos?
-subtitle: 'Atomic Design es una metodología concebida por Brad Frost, que pretende acabar con las inconsistencias y optimizar el diseño y desarrollo al máximo en aplicaciones modernas.'
+title: ¿Cómo utilizo atomic design en mis proyectos ReactJs?
+subtitle: 'Atomic Design es una metodología concebida por Brad Frost, que pretende acabar con las inconsistencias y optimizar el diseño y desarrollo al máximo en aplicaciones modernas, de ese modo podemos aplicar la composición de componentes en ReactJs.'
 excerpt: >-
     Acá te muestro como utilizar atomic design en todos tus proyectos futuros.
 date: '2022-09-09'
@@ -9,7 +9,7 @@ thumb_image_alt: atomic design image
 image: images/20.jpg
 image_alt: atomic design image
 seo:
-    title: ¿Cómo utilizo atomic design en mis proyectos?
+    title: ¿Cómo utilizo atomic design en mis proyectos ReactJs?
     description: >-
         Acá te muestro como utilizar atomic design en todos tus proyectos futuros.
     extra:
@@ -17,7 +17,7 @@ seo:
           value: article
           keyName: property
         - name: 'og:title'
-          value: ¿Cómo utilizo atomic design en mis proyectos?
+          value: ¿Cómo utilizo atomic design en mis proyectos ReactJs?
           keyName: property
         - name: 'og:description'
           value: >-
@@ -30,7 +30,7 @@ seo:
         - name: 'twitter:card'
           value: summary_large_image
         - name: 'twitter:title'
-          value: ¿Cómo utilizo atomic design en mis proyectos?
+          value: ¿Cómo utilizo atomic design en mis proyectos ReactJs?
         - name: 'twitter:description'
           value: >-
               Acá te muestro como utilizar atomic design en todos tus proyectos futuros.
@@ -41,6 +41,10 @@ layout: post
 [img1]:
     data: images/20.jpg
 ---
+
+Atomic Design nace a partir de la inquietud de Brad Frost de aplicar sus clases de química de la secundaria a otros campos e industrias. Su profesor, el Sr. Rae, tenía la reputación de tener una de clases más difíciles en su escuela debido a que sus estudiantes tenían que equilibrar cientos de ecuaciones químicas. Recordando química de secundaria, es bien sabido que las reacciones químicas están representadas por ecuaciones químicas que muestran como los átomos se combinan para formar moléculas. ¡Voilà! ¡Así empezó todo!
+
+El mundo es increíblemente complejo, es natural que este principio sea aplicado a otros campos abordando problemas similares,
 
 Probablemente realizaste muchos proyectos con React, muchos de ellos los creaste utilizando create-react-app. Es normal, esta manera de crear tus proyectos es una práctica muy usual entre los desarrolladores. Pero te preguntaste ¿si hay otras formas de crear proyectos? Por su puesto que sí, hay varias y una de ellas es utilizando Vite.
 
