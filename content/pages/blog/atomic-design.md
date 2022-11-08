@@ -92,17 +92,23 @@ En esta descripción, se simplifican muchas cosas de la composición química, p
 
 Son componentes básicos, estos no se los puede desglosar más sin dejar de ser funcionales. Cada átomo tienen sus propias propiedades únicas. Pueden ser: botones, avatares, inputs de formularios, párrafos, etc.
 
+![Identificando átomos en una vista](https://i49.servimg.com/u/f49/19/27/49/47/imagen10.png)
+
 ### Moléculas
 
 Son grupos de átomos unidos entre sí que adquieren nuevas propiedades distintas, funcionan juntos como una unidad. Por ejemplo:
 
 Un input de búsqueda y un botón pueden unirse para crear una molécula que forma parte de un formulario de búsqueda. Cuando se combinan estos átomos llegan a tener un propósito. Esta molécula llega a ser un componente simple, portátil y reutilizable que se puede colocar en cualquier lugar donde se necesite realizar búsquedas.
 
+![Identificando moléculas en una vista](https://i49.servimg.com/u/f49/19/27/49/47/imagen11.png)
+
 La creación de componentes simples ayuda a los diseñadores y desarrolladores a emplear el principio de responsabilidad única. Dicho en otras palabras "hacer una cosa y hacerlo bien"
 
 ### Organismos
 
 Son componentes relativamente complejos, compuestos por grupos de moléculas y/o átomos y/u otros organismos. Estos organismos forman secciones distintas. Por ejemplo, cuando unimos el logo, los iconos, texto y una molécula de búsqueda para crear una navegación en la aplicación. La navegación en sí es una sección independiente con sus propias propiedades, en mobile se puede ver con su burguer menu de una manera diferente a la versión desktop donde no se muestra el burguer menu, ya que se despliega sus opciones directamente.
+
+![Identificando organismos en una vista](https://i49.servimg.com/u/f49/19/27/49/47/imagen12.png)
 
 ### Plantillas
 
@@ -119,6 +125,8 @@ En esta etapa se realiza una revisión de que todo se llegue a ver bien y de que
 ## Llevando todo a código
 
 A continuación, vamos a dividir una interfaz de usuario en una jerarquía de componentes utilizando el principio de responsabilidad única. Y lo llevaremos a código utilizando ReactJS.
+
+![Dividiendo la vista de una app de acuerdo con atomic design](https://i49.servimg.com/u/f49/19/27/49/47/imagen13.png)
 
 Como se observa tenemos una aplicación que muestra productos de deportes y productos electrónicos con sus respectivos precios. Estos productos están divididos por sus categorías. También, se cuenta con una barra de búsquedas la cual filtra el producto deseado de las listas de productos, asimismo se considera solo mostrar los productos que tienen stock.
 
@@ -138,41 +146,31 @@ Ahora comenzaremos a identificar los diferentes componentes de acuerdo con la me
 
 De esta manera quedaría el código del componente ProductRow.
 
-```
-import React from 'react'
-
-import '../styles/ProductRow.css'
-
-function ProductRow(props) {
-    const producto = props.name
-    const precio = props.price
-    const theme = 'product-row ' + props.theme
-
-    return (
-        <div className={theme}>
-            <span>{producto}</span><span>{`$${precio}`} </span>
-        </div>
-    )
-}
-
-export { ProductRow }
-```
+![Componente ProductRow](https://i49.servimg.com/u/f49/19/27/49/47/carbon10.png)
 
 ### ProductCatergoryRow
 
 Este componente recibe el título que mostrará en su categoría y el arreglo de productos que pertenecen a dicha categoría, con esa información puede construirse por sí mismo. También crea componentes ProductRow por cada producto reutilizando código.
 
+![Componente ProductCategoryRow](https://i49.servimg.com/u/f49/19/27/49/47/carbon11.png)
+
 ### ProductTable
 
 Se construye este componente sobre la base de los anteriores componentes, para el ejemplo se utiliza dos categorías, por lo cual se le envía el título y el arreglo de productos correspondiente.
+
+![Componente ProductTable](https://i49.servimg.com/u/f49/19/27/49/47/carbon12.png)
 
 ### SearchBar
 
 Este componente quedaría de la siguiente manera.
 
+![Componente SearchBar](https://i49.servimg.com/u/f49/19/27/49/47/carbon13.png)
+
 ### FilterableProductTable
 
 Finalmente, todos los componentes anteriormente construidos son utilizados en este componente. También es bueno resaltar que cada uno de ellos es independiente en sus propiedades y estados. Para conseguir la funcionalidad esperada, los componentes interactúan unos con otros utilizando useContext.
+
+![Componente FilterableProductTable](https://i49.servimg.com/u/f49/19/27/49/47/carbon14.png)
 
 Para obtener toda la información correspondiente a este ejemplo puedes visitar el siguiente [GitHub](https://github.com/ArturoMauricioDev/product-table).
 
