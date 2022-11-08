@@ -66,7 +66,11 @@ El mundo es increíblemente complejo, es natural que este principio sobre las re
 
 La composición de componentes es un principio fundamental en ReactJS, te ayuda a diseñar tus componentes de modo que sean muy flexibles, y que se integren entre sí para cambiar un resultado visual o su funcionamiento dentro de la aplicación sin dificultades. Se crean componentes de fácil acoplamiento, es así como son fáciles de reutilizar, mover e incluso eliminar.
 
+![Piezas de lego](https://i49.servimg.com/u/f49/19/27/49/47/blokoc10.jpg)
+
 Son como piezas de lego cada unidad con su forma, color y estructura propia, que combinándolos de una manera se podría construir un edificio y si los combinamos de otra manera podríamos construir un tractor o lo que nuestra propia creatividad e imaginación nos permita hacerlo. A esto le llamamos composición de componentes.
+
+![Construyendo con piezas de lego](https://i49.servimg.com/u/f49/19/27/49/47/imagen10.jpg)
 
 Para realizar la composición de componentes utilizando la metodología Atomic Design debemos comenzar desde los elementos más pequeños de una aplicación, integrándolos uno a uno para formar componentes más grandes que irán convirtiéndose eventualmente en plantillas y páginas. Pero, ¿cómo vamos estructurándolos uno a uno? Lo haremos con:
 
